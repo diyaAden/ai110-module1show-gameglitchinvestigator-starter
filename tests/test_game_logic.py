@@ -1,5 +1,4 @@
-from logic_utils import check_guess
-from app import parse_guess
+from logic_utils import check_guess, parse_guess
 
 
 # --- Baseline behavior (check_guess returns an (outcome, message) tuple) ---
